@@ -1,1 +1,1 @@
-Archivo : https://raw.githubusercontent.com/tu_usuario/snmp-lab/main/ataque_snmp.pcap
+Archivo : https://github.com/andresc1029/PruebaSNMP-/raw/refs/heads/main/ataque_snmp.pcap
